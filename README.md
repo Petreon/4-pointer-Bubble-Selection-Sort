@@ -5,7 +5,7 @@ This is an test algorithm that implements the two approach of a buuble and selec
 ## Results
 
 with this tests we can create an optimized alogrithm than the optmized bubblesort,
-but it doesnt compare to the STL sort algorithm, the results are below
+but it doesnt compare to the STL sort algorithm, the results are below the test was made with an 10000 array elements
 
 - Time taken by bubble_selection is : 0.449637 sec
 - Time taken by sort is : 0.001989100 sec
